@@ -75,6 +75,7 @@
     </section>
 
     <footer>
+        <p>Your ip <?php echo $_SERVER['REMOTE_ADDR']; ?></p>
         <p>&copy; 2024 Simon Chikira. All Rights Reserved.</p>
     </footer>
 
